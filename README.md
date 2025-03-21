@@ -11,4 +11,4 @@ If the guess is incorrect, the game provides feedback and generates a new random
 
 1. Run the script using Python:
    ```sh
-   python game.py```
+   python game.py
